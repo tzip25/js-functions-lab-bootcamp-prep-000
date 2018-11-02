@@ -1,6 +1,6 @@
 // write your code below!
 function happyHolidays() {
-return  `Happ holidays!`
+return  `Happy holidays!`
 }
 
 function happyHolidaysTo(name) {
